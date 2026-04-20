@@ -11,7 +11,7 @@
 - **Visualization:** Tableau, PowerBI
 - **Version Control:** Git, GitHub
 - **Machine Learning:** Scikit-learn ( Regression, Classification), Feature Engineering
-- **Deep Learning:** PyTorch, Tensorflow, ANN, CNN
+- **Deep Learning:** PyTorch, TensorFlow, ANN, CNN
 
 ## Connect with me:
 - Email: ajitagiri07@gmail.com
